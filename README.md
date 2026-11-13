@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img src="assets/header-dark.svg" width="100%" alt="Robert Gerald Senasin. Software, applied AI and games. CS student at FEU Tech, Taguig, Philippines.">
+  <img src="assets/header-dark.svg" width="100%" alt="Robert Gerald Senasin. Software, applied AI and games.">
 </picture>
 
 Final-year Computer Science student at **FEU Institute of Technology**, working across software, applied AI and games. I led the team behind our thesis, **M.I.N.E.R.V.A.**, awarded back to back at the FEU Tech Student Research Colloquium and CS Expo 2026.

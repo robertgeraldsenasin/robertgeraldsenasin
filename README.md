@@ -66,5 +66,5 @@ My portfolio, built as one HTML file with no framework: self-hosted fonts, motio
 
 ## Now
 
-- Looking for a **540-hour OJT placement** for next semester. **[Email me](mailto:robertgeraldsenasin@gmail.com)**.
+- Looking for a **1080-hour OJT placement** for next semester. **[Email me](mailto:robertgeraldsenasin@gmail.com)**.
 - Taking the GitHub Foundations exam this month.

@@ -50,8 +50,8 @@ My portfolio, built as one HTML file with no framework: self-hosted fonts, motio
 
 ## Queued
 
-- **Byahe: Metro Manila Live Dispatch** &nbsp;·&nbsp; Nov 17–21 &nbsp;·&nbsp; a delivery dispatch simulator on the real Metro Manila road network, with Contraction Hierarchies for routing and Adaptive Large Neighborhood Search for vehicle routes.
-- **Bantay** (working title) &nbsp;·&nbsp; Nov 23 – Dec 20 &nbsp;·&nbsp; a procedural action roguelike set in Philippine mythology, built in Unity 6 with a teammate.
+- **Byahe: Metro Manila Live Dispatch** &nbsp;·&nbsp; Nov 20-23 &nbsp;·&nbsp; a delivery dispatch simulator on the real Metro Manila road network, with Contraction Hierarchies for routing and Adaptive Large Neighborhood Search for vehicle routes.
+- **Bantay** (working title) &nbsp;·&nbsp; Nov – Dec &nbsp;·&nbsp; a procedural action roguelike set in Philippine mythology, built in Unity 6 with a teammate.
 
 ## Toolbox
 

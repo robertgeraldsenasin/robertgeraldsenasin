@@ -59,7 +59,7 @@ My portfolio, built as one HTML file with no framework: self-hosted fonts, motio
 | :--- | :--- |
 | **Software** | Python, Java, C#, C++, JavaScript, SQL, HTML/CSS &nbsp;·&nbsp; FastAPI, React, Docker, Vercel &nbsp;·&nbsp; SAP CAP and BTP |
 | **AI and data** | Hugging Face Transformers, GraphSAGE, QLattice, GPT-2, LLM evaluation &nbsp;·&nbsp; Neo4j (Cypher), MySQL, Oracle SQL, MongoDB, SQLite |
-| **Games and mobile** | Unity 6 &nbsp;·&nbsp; Android Studio (Java) |
+| **Games and mobile** | Unity 6 &nbsp;·&nbsp; Android Studio (Java) &nbsp;·&nbsp; Godot |
 | **Workflow** | Git, GitHub, Claude Code |
 
 **Certified:** SAP Certified Backend Developer (CAP) &nbsp;·&nbsp; SAP Certified Generative AI Developer &nbsp;·&nbsp; Neo4j Certified Professional &nbsp;·&nbsp; IT Specialist: Python

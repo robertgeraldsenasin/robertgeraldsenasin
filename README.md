@@ -29,15 +29,14 @@ The Tagalog rumor-detection pipeline behind our thesis game: RoBERTa-Tagalog and
 We logged 240 turns of four LLMs repairing SQL on Spider2-Lite with nothing but pass/fail feedback. None of the 48 runs reached a correct query; wrong results dominated, and some fixes made things worse.<br>
 <sub>Research paper, 2026 &nbsp;·&nbsp; lead researcher and lead developer &nbsp;·&nbsp; submitted to IJACSA with Adrian Joseph Salva, in collaboration with Dr. Alexander Hernandez &nbsp;·&nbsp; **[Open the repo →](https://github.com/robertgeraldsenasin/ProgLang_ErrorPropagation)**</sub>
 
-<!-- Hasik: once the code is pushed, point both links below at https://github.com/robertgeraldsenasin/hasik and change the last line to "Open the repo →". -->
-<a href="https://robertgeraldsenasin.github.io/#hasik"><picture>
+<a href="https://github.com/robertgeraldsenasin/hasik"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/case-hasik-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/case-hasik-light.png">
   <img src="assets/case-hasik-dark.png" width="100%" alt="Case 03: Hasik. Software, AI and Games. TypeScript. Stamped Milestone 1: 121 tests passing.">
 </picture></a>
 
 Sungka, the Filipino mancala game, with Random, Greedy, Minimax and Monte Carlo Tree Search bots. They play paired games in an arena, Glicko-2 ranks them, and a sequential test rejects any change that makes the engine weaker.<br>
-<sub>Personal project, 2026 &nbsp;·&nbsp; Milestone 1 done, code going public soon &nbsp;·&nbsp; **[Read the case study →](https://robertgeraldsenasin.github.io/#hasik)**</sub>
+<sub>Personal project, 2026 &nbsp;·&nbsp; public, with move previews and a hint mode in the browser &nbsp;·&nbsp; **[Play it →](https://robertgeraldsenasin.github.io/hasik/)** &nbsp;·&nbsp; **[Open the repo →](https://github.com/robertgeraldsenasin/hasik)**</sub>
 
 <a href="https://github.com/robertgeraldsenasin/robertgeraldsenasin.github.io"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/case-portfolio-dark.png">
@@ -66,5 +65,5 @@ My portfolio, built as one HTML file with no framework: self-hosted fonts, motio
 
 ## Now
 
-- Looking for a **1080-hour OJT placement** for next semester. **[Email me](mailto:robertgeraldsenasin@gmail.com)**.
+- Hasik is public: **[play it in your browser](https://robertgeraldsenasin.github.io/hasik/)** or **[read the code](https://github.com/robertgeraldsenasin/hasik)**.
 - Taking the GitHub Foundations exam this month.

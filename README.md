@@ -32,16 +32,25 @@ We logged 240 turns of four LLMs repairing SQL on Spider2-Lite with nothing but 
 <a href="https://github.com/robertgeraldsenasin/hasik"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/case-hasik-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/case-hasik-light.png">
-  <img src="assets/case-hasik-dark.png" width="100%" alt="Case 03: Hasik. Software, AI and Games. TypeScript. Stamped Milestone 1: 121 tests passing.">
+  <img src="assets/case-hasik-dark.png" width="100%" alt="Case 03: Hasik. Software, AI and Games. TypeScript. Stamped Live: 138 tests passing.">
 </picture></a>
 
 Sungka, the Filipino mancala game, with Random, Greedy, Minimax and Monte Carlo Tree Search bots. They play paired games in an arena, Glicko-2 ranks them, and a sequential test rejects any change that makes the engine weaker.<br>
 <sub>Personal project, 2026 &nbsp;·&nbsp; public, with move previews and a hint mode in the browser &nbsp;·&nbsp; **[Play it →](https://robertgeraldsenasin.github.io/hasik/)** &nbsp;·&nbsp; **[Open the repo →](https://github.com/robertgeraldsenasin/hasik)**</sub>
 
+<a href="https://github.com/robertgeraldsenasin/whyfinder"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/case-whyfinder-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/case-whyfinder-light.png">
+  <img src="assets/case-whyfinder-dark.png" width="100%" alt="Case 04: Whyfinder. Software and AI. Python. Stamped Live demo: 153 tests passing.">
+</picture></a>
+
+An explainable Steam game recommender. A glass-box blend of EASE<sup>R</sup> and Personalized PageRank makes every reason an exact share of the score, names the games you'd have to remove for a pick to drop out, and keeps the list varied with a DPP re-ranker. The same engine runs in Python and in your browser, and CI checks that they agree.<br>
+<sub>Personal project, 2026–2027 &nbsp;·&nbsp; first milestone shipped: 7.8 million reviews through a checksummed pipeline &nbsp;·&nbsp; **[Try the demo →](https://robertgeraldsenasin.github.io/whyfinder/)** &nbsp;·&nbsp; **[Open the repo →](https://github.com/robertgeraldsenasin/whyfinder)**</sub>
+
 <a href="https://github.com/robertgeraldsenasin/robertgeraldsenasin.github.io"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/case-portfolio-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/case-portfolio-light.png">
-  <img src="assets/case-portfolio-dark.png" width="100%" alt="Case 04: Portfolio site. Software. HTML. Stamped Live: GitHub Pages.">
+  <img src="assets/case-portfolio-dark.png" width="100%" alt="Case 05: Portfolio site. Software. HTML. Stamped Live: GitHub Pages.">
 </picture></a>
 
 My portfolio, built as one HTML file with no framework: self-hosted fonts, motion that respects reduced-motion settings, and zero axe accessibility violations in both themes.<br>
@@ -49,21 +58,22 @@ My portfolio, built as one HTML file with no framework: self-hosted fonts, motio
 
 ## Queued
 
-- **Byahe: Metro Manila Live Dispatch** &nbsp;·&nbsp; Nov 20-23 &nbsp;·&nbsp; a delivery dispatch simulator on the real Metro Manila road network, with Contraction Hierarchies for routing and Adaptive Large Neighborhood Search for vehicle routes.
+- **Byahe: Metro Manila Live Dispatch** &nbsp;·&nbsp; early 2027 &nbsp;·&nbsp; a delivery dispatch simulator on the real Metro Manila road network, with Contraction Hierarchies for routing and Adaptive Large Neighborhood Search for vehicle routes.
 - **Bantay** (working title) &nbsp;·&nbsp; Nov – Dec &nbsp;·&nbsp; a procedural action roguelike set in Philippine mythology, built in Unity 6 with a teammate.
 
 ## Toolbox
 
 | Lane | Tools |
 | :--- | :--- |
-| **Software** | Python, Java, C#, C++, JavaScript, SQL, HTML/CSS &nbsp;·&nbsp; FastAPI, React, Docker, Vercel &nbsp;·&nbsp; SAP CAP and BTP |
-| **AI and data** | Hugging Face Transformers, GraphSAGE, QLattice, GPT-2, LLM evaluation &nbsp;·&nbsp; Neo4j (Cypher), MySQL, Oracle SQL, MongoDB, SQLite |
+| **Software** | Python, Java, C#, C++, JavaScript, TypeScript, SQL, HTML/CSS &nbsp;·&nbsp; FastAPI, React, Svelte, Docker, Vercel &nbsp;·&nbsp; SAP CAP and BTP |
+| **AI and data** | Hugging Face Transformers, GraphSAGE, QLattice, GPT-2, LLM evaluation, recommender systems (EASE<sup>R</sup>, PageRank, DPP) &nbsp;·&nbsp; Neo4j (Cypher), MySQL, Oracle SQL, MongoDB, SQLite, DVC |
 | **Games and mobile** | Unity 6 &nbsp;·&nbsp; Android Studio (Java) &nbsp;·&nbsp; Godot |
-| **Workflow** | Git, GitHub, Claude Code |
+| **Workflow** | Git, GitHub, GitHub Actions, Claude Code |
 
 **Certified:** SAP Certified Backend Developer (CAP) &nbsp;·&nbsp; SAP Certified Generative AI Developer &nbsp;·&nbsp; Neo4j Certified Professional &nbsp;·&nbsp; IT Specialist: Python
 
 ## Now
 
+- Whyfinder's first milestone is live: **[try the demo](https://robertgeraldsenasin.github.io/whyfinder/)** or **[read the code](https://github.com/robertgeraldsenasin/whyfinder)**.
 - Hasik is public: **[play it in your browser](https://robertgeraldsenasin.github.io/hasik/)** or **[read the code](https://github.com/robertgeraldsenasin/hasik)**.
 - Taking the GitHub Foundations exam this month.
